@@ -27,6 +27,12 @@ button {
     margin-bottom: 5px;
     border-radius: 5px;
 }
+p {
+    color: rgb(0, 47, 255);
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 #increment-btn {
     background: darkred;
